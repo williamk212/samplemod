@@ -1,0 +1,11 @@
+Examples of Pythonic Projects
+=============================
+
+http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/
+http://python-guide-pt-br.readthedocs.io/en/latest/writing/reading/
+https://github.com/pallets/flask
+https://github.com/python-diamond/Diamond
+
+## from reddit
+https://github.com/cherrypy/cherrypy
+
